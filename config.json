@@ -1,0 +1,5 @@
+{
+    "source_directory": "./source_data",
+    "backup_directory": "./backup_vault",
+    "dry_run": false
+}
